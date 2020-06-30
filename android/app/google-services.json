@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976864824001",
+    "firebase_url": "https://ivypods-284a0.firebaseio.com",
+    "project_id": "ivypods-284a0",
+    "storage_bucket": "ivypods-284a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976864824001:android:369b84e9037a110da52240",
+        "android_client_info": {
+          "package_name": "com.example.ivypods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976864824001-nroih3r6j414bdjs8k04v6medbg20ccv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ivypods",
+            "certificate_hash": "72c95a765a3bcae2a7025eabe4ad6fda03e89c71"
+          }
+        },
+        {
+          "client_id": "976864824001-npdv24dat97e31abj5dscud351oq4u3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRGSv9maCorvJlK--pGqWN62B61Tbfz0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976864824001-npdv24dat97e31abj5dscud351oq4u3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
